@@ -1,2 +1,0 @@
-# skrupt
-skrypt na suby
