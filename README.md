@@ -1,0 +1,2 @@
+# skrupt
+skrypt na suby
